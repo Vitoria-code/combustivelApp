@@ -7,6 +7,7 @@
 Projeto com a intenção de comparar valores de gasolina e álcool e informar qual é mais vantajoso
 
 ## Demonstração
+[combustivelApp.webm](https://github.com/Vitoria-code/combustivelApp/assets/101776379/b258b055-e7ec-420e-a421-e47a5ff3b3f5)
 
 ## Stack utilizada
 
